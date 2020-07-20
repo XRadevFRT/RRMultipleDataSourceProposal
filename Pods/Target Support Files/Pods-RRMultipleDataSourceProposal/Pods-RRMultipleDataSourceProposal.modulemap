@@ -1,0 +1,6 @@
+framework module Pods_RRMultipleDataSourceProposal {
+  umbrella header "Pods-RRMultipleDataSourceProposal-umbrella.h"
+
+  export *
+  module * { export * }
+}

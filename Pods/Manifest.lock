@@ -1,0 +1,20 @@
+PODS:
+  - Parchment (1.7.0)
+  - TwoWayBondage (2.0.2)
+
+DEPENDENCIES:
+  - Parchment (~> 1.7.0)
+  - TwoWayBondage (~> 2.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Parchment
+    - TwoWayBondage
+
+SPEC CHECKSUMS:
+  Parchment: cae686f73685d16742cec9c19239b7578a15f0f5
+  TwoWayBondage: 4cb7b0a5756f234495629bfee8cbef7ac9d1ae52
+
+PODFILE CHECKSUM: c18a722b040889255e9c84d047a1c8035660f4ef
+
+COCOAPODS: 1.8.4
